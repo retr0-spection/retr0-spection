@@ -9,7 +9,7 @@
 ```
 **retr0-spection**  
 
-# ***NLP Project Link***
+# ***COMS4054A NLP Project Link***
 [Link](https://github.com/retr0-spection/nlp-transformer-wcst.git)
 
 
