@@ -12,6 +12,10 @@
 # ***COMS4054A NLP Project Link***
 [Link](https://github.com/retr0-spection/nlp-transformer-wcst.git)
 
+# ***Honours Research Project***
+[Link](https://github.com/retr0-spection/ASR-LCM-Research.git)
+
+
 
 # 👋 Hey there, I’m Oratile
 
